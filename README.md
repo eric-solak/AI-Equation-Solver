@@ -12,11 +12,16 @@ This project utilizes AI to solve mathematical equations extracted from images a
 
 1. Install dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
+
+### Running the Program
+   ```bash
+   python3 src/main.py images/example1.png
+   ```
 
 ### 1. Image to Text Conversion
    - Ensure you have images containing mathematical equations in a readable format (typed or handwritten)
