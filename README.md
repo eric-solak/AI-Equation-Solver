@@ -1,6 +1,6 @@
 # AI Equation Solver
 
-This project utilizes AI to solve mathematical equations extracted from images and graph the results.
+This project utilizes AI to extact and solve mathematical equations from images and graph the results.
 
 ## Features
 
