@@ -43,5 +43,6 @@ This project utilizes the following Hugging Face APIs:
 ## Roadmap
 
 - Transition AI from running locally to the HuggingFace server.
+- Add front-end interface
 - Implement complete functionality for equation solving and graphing.
 - Enhance accuracy and performance of image to text conversion.
