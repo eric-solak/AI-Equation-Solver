@@ -10,7 +10,7 @@ This project utilizes AI to solve mathematical equations extracted from images a
 
 ## Installation
 
-2. Install dependencies:
+1. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
